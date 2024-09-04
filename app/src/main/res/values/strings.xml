@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">nikroMsg</string>
+    <string name="phone_number_title">Введите номер телефона</string>
+</resources>
